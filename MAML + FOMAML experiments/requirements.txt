@@ -1,0 +1,11 @@
+mock
+tqdm
+numpy
+miniimagenettools
+pandas
+scikit-learn
+#  Just for plots and graphs
+matplotlib
+seaborn
+# for face recognition
+# face_recognition
