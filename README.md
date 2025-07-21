@@ -1,5 +1,5 @@
 # StochLWTA-ML
-Code Implementation for Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning
+Code Implementation for ICML 2022 paper 'Stochastic Deep Networks with Linear Competing Units for Model-Agnostic Meta-Learning'
 
 Abstract
 
